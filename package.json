@@ -43,7 +43,7 @@
     "husky": "^1.0.0-rc.2",
     "jest": "^22.0.0",
     "opn-cli": "^4.0.0",
-    "semantic-release": "^15.0.0",
+    "semantic-release": "^15.13.3",
     "standard": "^12.0.0"
   },
   "jest": {
